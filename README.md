@@ -21,7 +21,7 @@ I'm a recent graduate of the [Code for All_](https://codeforall.com/) school, wh
 
 ## What I Bring to the Table
 
-- 🌟 My education and bootcamp experience have equipped me with strong problem-solving skills and a deep understanding of web development.
+- 🌟 My education and bootcamp experience have equipped me with strong problem-solving skills and a good knowledge of web development.
 - 🌐 I'm passionate about building user-friendly, efficient, and scalable software.
 - 💡 I'm always eager to learn and adapt to the latest industry trends.
 - 🤝 I value collaboration and teamwork, with a focus on open communication and agile development practices.
