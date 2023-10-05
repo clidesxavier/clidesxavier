@@ -1,6 +1,6 @@
 # Hello, my name is  Euclides Xavier 👋
 
-I'm a recent graduate of the [Code for All_](https://codeforall.com/) school, where I completed an intensive and immersive full-stack programming bootcamp. I earned the title of Junior Full Stack Developer, and I'm enthusiastic about leveraging my skills to create innovative web applications.
+I'm a recent graduate Junior Full Stack Developer from [Code for All_](https://codeforall.com/) school, where I completed an intensive and immersive full-stack programming bootcamp. I'm enthusiastic about leveraging my skills to create innovative web applications.
 
 ![Profile Picture](https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
