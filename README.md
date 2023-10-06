@@ -57,9 +57,8 @@ I'm excited to connect with fellow developers, designers, and tech enthusiasts. 
 ### GitHub Stats
 
 <!-- Add GitHub Readme Stats here -->
-![clidesxavier's Stats](https://github-readme-stats.vercel.app/api?username=clidesxavier&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![clidesxavier's Streak](https://github-readme-streak-stats.herokuapp.com/?user=clidesxavier&theme=tokyonight&hide_border=true)
-![clidesxavier's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=clidesxavier&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![clidesxavier's Stats](https://github-readme-stats.vercel.app/api?username=clidesxavier&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+![clidesxavier's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=clidesxavier&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 
 Let's build amazing things together! 🚀
