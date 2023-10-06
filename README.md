@@ -43,6 +43,7 @@ I'm a recent graduate Junior Full Stack Developer from [Code for All_](https://c
   
 - 📖 I'm continuously learning and exploring new technologies, such as C, Bash and Shell.
 
+
 ## Let's Connect
 
 I'm excited to connect with fellow developers, designers, and tech enthusiasts. Whether you want to collaborate on a project, share knowledge, or just have a friendly chat, feel free to reach out to me:
@@ -52,5 +53,13 @@ I'm excited to connect with fellow developers, designers, and tech enthusiasts. 
 - <a href="https://www.linkedin.com/in/euclidesxavier/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1280px-LinkedIn_Logo.svg.png" alt="LinkedIn Profile" width="60" height="20">
 </a>
+
+### GitHub Stats
+
+<!-- Add GitHub Readme Stats here -->
+![clidesxavier's Stats](https://github-readme-stats.vercel.app/api?username=clidesxavier&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![clidesxavier's Streak](https://github-readme-streak-stats.herokuapp.com/?user=clidesxavier&theme=tokyonight&hide_border=true)
+![clidesxavier's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=clidesxavier&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
 
 Let's build amazing things together! 🚀
